@@ -1,0 +1,28 @@
+name: My English University
+favicon: null
+layout_spectrum: 0.22209288389422
+typography_spectrum: 0.4123001336120069
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.882417039712891
+  lightness: 0.4983512491453439
+  saturation: 0.3542456526774913
+  rhythmicContrast: 0.034696530317887664
+purpose: []
